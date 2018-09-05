@@ -1,0 +1,92 @@
+name: sens-cible
+analytics: {}
+purpose: []
+github: true
+description: "«\_Une issue çà s’invente. Et chacun, en inventant sa propre issue, s’invente soi-même. L’homme est à inventer chaque jour.\_» Jean-Paul Sartre «\_Qu’est que la littérature ?\_» p. 313. "
+author:
+  name: 'Bernard  '
+  email: bernard.gabillon@gmail.com
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1158dcf5-ef42-468b-9010-eafd1d967aeb.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1158dcf5-ef42-468b-9010-eafd1d967aeb.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: 080e5954-e8df-4f49-8374-8b16b591aa23
+    name: TENTATIONS
+    type: content
+  - id: b0a19aa6-42ee-4233-8fb4-9ffa14278596
+    name: PROCESSUS SENS
+    type: content
+  - id: 8dd17af1-e88c-4c05-adf0-0e4936934fda
+    name: PROCESSUS CIBLES
+    type: content
+  - id: caf67d99-9400-410c-8800-a27234039b2d
+    name: NAVIGATIONS GRAPHIQUES
+    type: content
+  - id: 66b8f722-3fb7-4870-8110-cf04ff917cdf
+    name: TRANS-ACTIONS
+    type: content
+  - id: db367686-c550-4191-a92e-7878f841cc66
+    name: TRANS-SCRIPTIONS
+    type: content
+  - id: ba8d0f97-2ef1-4b3a-a714-85cb98875fa5
+    name: DESSEINS MOUVANTS
+    type: content
+layout_spectrum: 0.323409081433743
+color:
+  lightness: 0.0036943070774916363
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.5066756839370632
+  brandStrength: 0.643527103376916
+  rhythmicContrast: 0.5893399136797478
+content_rating:
+  adult: false
+typography_spectrum: 0.0032512461628285355
+opengraph: {}
+title: ' TENTATION + TRANSGRESSION + TRANSACTION  + TRANSMISSION =  D-E-S-I-G-N  '
+url: 'http://sens-cible.photo'
