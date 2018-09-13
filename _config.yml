@@ -51,26 +51,26 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: 080e5954-e8df-4f49-8374-8b16b591aa23
-    name: TENTATIONS
+  - name: TENTATIONS
+    id: 080e5954-e8df-4f49-8374-8b16b591aa23
     type: content
-  - id: b0a19aa6-42ee-4233-8fb4-9ffa14278596
-    name: PROCESSUS SENS
+  - name: PROCESSUS SENS
+    id: b0a19aa6-42ee-4233-8fb4-9ffa14278596
     type: content
-  - id: 8dd17af1-e88c-4c05-adf0-0e4936934fda
-    name: PROCESSUS CIBLES
+  - name: PROCESSUS CIBLES
+    id: 8dd17af1-e88c-4c05-adf0-0e4936934fda
     type: content
-  - id: caf67d99-9400-410c-8800-a27234039b2d
-    name: NAVIGATIONS GRAPHIQUES
+  - name: NAVIGATIONS GRAPHIQUES
+    id: caf67d99-9400-410c-8800-a27234039b2d
     type: content
-  - id: 66b8f722-3fb7-4870-8110-cf04ff917cdf
-    name: TRANS-ACTIONS
+  - name: TRANS-ACTIONS
+    id: 66b8f722-3fb7-4870-8110-cf04ff917cdf
     type: content
-  - id: db367686-c550-4191-a92e-7878f841cc66
-    name: TRANS-SCRIPTIONS
+  - name: TRANS-SCRIPTIONS
+    id: db367686-c550-4191-a92e-7878f841cc66
     type: content
-  - id: ba8d0f97-2ef1-4b3a-a714-85cb98875fa5
-    name: DESSEINS MOUVANTS
+  - name: DESSEINS MOUVANTS
+    id: ba8d0f97-2ef1-4b3a-a714-85cb98875fa5
     type: content
 layout_spectrum: 0.323409081433743
 color:
